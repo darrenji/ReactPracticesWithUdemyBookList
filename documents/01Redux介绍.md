@@ -1,5 +1,9 @@
 <br>
 
+本项目源码参考：Github: https://github.com/StephenGrider/ReduxCasts
+
+<br>
+
 http://redux.js.org/, Redux看作是一个状态容器。来看这样的一个界面。
 
 <br>
